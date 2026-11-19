@@ -1,6 +1,6 @@
 Integrantes del equipo
 Diseño y Arquitectura de Software - Universidad de La Sabana
 
-Laura Sofía Rodriguez Gonzalez - correo@unisabana.edu.co
-Gabriel Armando González Sosa - correo@unisabana.edu.co
+Laura Sofía Rodriguez Gonzalez - laurarodrgon@unisabana.edu.co
+Gabriel Armando González Sosa - gabrielgoso@unisabana.edu.co
 Daniel Felipe Forero Sánchez - danielforsa@unisabana.edu.co
